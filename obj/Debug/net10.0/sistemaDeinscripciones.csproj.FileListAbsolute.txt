@@ -1,0 +1,14 @@
+D:\CUATRI NUMERO 5\Programación II\PIMER PROGRAMA\sistemaDeinscripciones\sistemaDeinscripciones\bin\Debug\net10.0\sistemaDeinscripciones.exe
+D:\CUATRI NUMERO 5\Programación II\PIMER PROGRAMA\sistemaDeinscripciones\sistemaDeinscripciones\bin\Debug\net10.0\sistemaDeinscripciones.deps.json
+D:\CUATRI NUMERO 5\Programación II\PIMER PROGRAMA\sistemaDeinscripciones\sistemaDeinscripciones\bin\Debug\net10.0\sistemaDeinscripciones.runtimeconfig.json
+D:\CUATRI NUMERO 5\Programación II\PIMER PROGRAMA\sistemaDeinscripciones\sistemaDeinscripciones\bin\Debug\net10.0\sistemaDeinscripciones.dll
+D:\CUATRI NUMERO 5\Programación II\PIMER PROGRAMA\sistemaDeinscripciones\sistemaDeinscripciones\bin\Debug\net10.0\sistemaDeinscripciones.pdb
+D:\CUATRI NUMERO 5\Programación II\PIMER PROGRAMA\sistemaDeinscripciones\sistemaDeinscripciones\obj\Debug\net10.0\sistemaDeinscripciones.GeneratedMSBuildEditorConfig.editorconfig
+D:\CUATRI NUMERO 5\Programación II\PIMER PROGRAMA\sistemaDeinscripciones\sistemaDeinscripciones\obj\Debug\net10.0\sistemaDeinscripciones.AssemblyInfoInputs.cache
+D:\CUATRI NUMERO 5\Programación II\PIMER PROGRAMA\sistemaDeinscripciones\sistemaDeinscripciones\obj\Debug\net10.0\sistemaDeinscripciones.AssemblyInfo.cs
+D:\CUATRI NUMERO 5\Programación II\PIMER PROGRAMA\sistemaDeinscripciones\sistemaDeinscripciones\obj\Debug\net10.0\sistemaDeinscripciones.csproj.CoreCompileInputs.cache
+D:\CUATRI NUMERO 5\Programación II\PIMER PROGRAMA\sistemaDeinscripciones\sistemaDeinscripciones\obj\Debug\net10.0\sistemaDeinscripciones.dll
+D:\CUATRI NUMERO 5\Programación II\PIMER PROGRAMA\sistemaDeinscripciones\sistemaDeinscripciones\obj\Debug\net10.0\refint\sistemaDeinscripciones.dll
+D:\CUATRI NUMERO 5\Programación II\PIMER PROGRAMA\sistemaDeinscripciones\sistemaDeinscripciones\obj\Debug\net10.0\sistemaDeinscripciones.pdb
+D:\CUATRI NUMERO 5\Programación II\PIMER PROGRAMA\sistemaDeinscripciones\sistemaDeinscripciones\obj\Debug\net10.0\sistemaDeinscripciones.genruntimeconfig.cache
+D:\CUATRI NUMERO 5\Programación II\PIMER PROGRAMA\sistemaDeinscripciones\sistemaDeinscripciones\obj\Debug\net10.0\ref\sistemaDeinscripciones.dll
